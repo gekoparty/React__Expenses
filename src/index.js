@@ -1,6 +1,6 @@
 import '../src/styles/index.scss';
 import {render} from 'react-dom';
-import App from './components/App';
+import App from './App';
 
 
 
